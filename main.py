@@ -14,6 +14,5 @@ def encode(pw):
 def main():
     print(encode(input()))
 
-
 if __name__ == "__main__":
     main()
